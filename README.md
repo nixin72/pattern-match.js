@@ -1,4 +1,4 @@
-# ts-match
+# pattern-match.js
 
 This is a simple function to provide Haskell/Rust/etc like pattern matching to JavaScript and TypeScript.
 
