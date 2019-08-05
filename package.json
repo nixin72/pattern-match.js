@@ -1,6 +1,6 @@
 {
   "name": "pattern-match.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript pattern matching function to give your life some more functional programming",
   "main": "./match.js",
   "scripts": {
